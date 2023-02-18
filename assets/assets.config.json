@@ -1,0 +1,125 @@
+{
+  "restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "breakfast.svg": {
+    "mime": "image/svg+xml"
+  },
+  "main dishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "main_dishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger_and_fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "location.svg": {
+    "mime": "image/svg+xml"
+  },
+  "contact.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger_product_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "chocolate milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "chocolate_milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "classic fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "classic_fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "pancakes.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "ice_crean.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "chicken_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "egg toast.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "regular_soda.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "mac_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "left_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "matt.jpg": {
+    "mime": "image/jpeg"
+  },
+  "right_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "perfect_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "french_fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "chicken_fry.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "cheese_cake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger_combo.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger_insta.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "french_fries_insta.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger_coke.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "potato_chips.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "hotdog.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "coke.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
